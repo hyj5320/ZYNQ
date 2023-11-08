@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="eth_test" location="C:/verilog/target_board/project_1/workspace2/eth_test" platform="C:/verilog/target_board/project_1/workspace2/design_1_eth_test/export/design_1_eth_test/design_1_eth_test.xpfm" platformUID="xilinx:::0.0(custom)" systemProject="eth_test_system" sysConfig="design_1_eth_test" runtime="cpp" cpu="freertos10_xilinx_psu_cortexa53_0" cpuInstance="psu_cortexa53_0" os="freertos10_xilinx" mssSignature="58ea1f3974355cc1b5f023beb7fbf286">
+  <configuration name="Debug" id="xilinx.gnu.arm.a53.exe.debug.66644737">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.arm.a53.exe.release.1572353439" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="freertos_lwip_tcp_perf_server" hasBspSettings="true"/>
+</sdkproject:SdkProject>
